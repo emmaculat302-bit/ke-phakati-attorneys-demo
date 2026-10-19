@@ -1,0 +1,4 @@
+uploads/
+.git-credentials
+.netrc
+.DS_Store
